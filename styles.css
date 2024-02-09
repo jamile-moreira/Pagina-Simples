@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 110px;
+  padding: 12px;
+  position: sticky;
+  top: 0;
+  background-color: rgb(255, 255, 255);
+}
+header img {
+  display: block;
+  margin: 0 auto;
+  width: 50px;
+  height: 50px;
+}
+header h1 {
+  text-align: center;
+}
+
+.titulo {
+  background-image: url('assets/alimentosCapa.jpeg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+.titulo h1 {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: white;
+  height: 150px;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding-top: 50px;
+}
+
+.menu {
+  background-color: rgb(99, 175, 124);
+  width: 80px;
+  height: 300px;
+  position: fixed;
+  z-index: 1;
+  left: -50px;
+  border: 2px solid rgb(0, 114, 8);
+  margin-top: -150px;
+  top: 50%;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+.menu img {
+  width: 50px;
+  cursor: pointer;
+  margin-top: 30px;
+  margin-left: 15px;
+}
+
+.menu:hover {
+  left: 0;
+}
+
+.menu img:hover {
+  opacity: 0.8;
+}
+
+.container {
+  padding: 30px 100px;
+}
+
+.container p {
+  text-align: justify;
+}
+
+footer {
+  background-color: rgb(97, 156, 97);
+  text-align: center;
+  height: 230px;
+}
+
+footer a {
+  text-decoration: none;
+  font-size: large;
+}
+
+footer h2 {
+  color: #fff;
+}
+
+a:hover {
+  font-size: 20px;
+  color: rgb(146, 238, 155);
+}
