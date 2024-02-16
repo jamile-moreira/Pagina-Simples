@@ -1,3 +1,8 @@
+<img src="https://github.com/jamile-moreira/Pagina-Simples/assets/102548113/57112d2a-2d25-4684-b39c-bb6ffe735a07" />
+<img src="https://github.com/jamile-moreira/Pagina-Simples/assets/102548113/797b0da3-a707-4a57-883d-2fb7214f4e01"/>
+<img src="https://github.com/jamile-moreira/Pagina-Simples/assets/102548113/5289c3a6-0654-40de-bb4d-688cd374d5aa"/>
+
+
 🎉 **Bem-vindo ao meu humilde projeto** 🚀
 
 Este projeto é um exemplo interativo para demonstrar o uso de HTML e CSS! Aqui você encontrará informações sobre o projeto, as ferramentas utilizadas e instruções sobre como executá-lo em seu ambiente local.
